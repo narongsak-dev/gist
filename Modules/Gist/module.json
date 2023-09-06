@@ -1,0 +1,11 @@
+{
+    "name": "Gist",
+    "alias": "gist",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Gist\\Providers\\GistServiceProvider"
+    ],
+    "files": []
+}
